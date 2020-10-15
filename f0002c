@@ -1,0 +1,11 @@
+print('Első sor\n')
+print('\nNos?')
+print('Azaz?\n')
+print('\nAkkor most mennyi?\n\n')
+print('Utolsó sor')
+
+Az elsőnél:2
+A másodiknál:0
+A harmadiknál:2
+A negyediknél:2
+Az örödiknél:0
